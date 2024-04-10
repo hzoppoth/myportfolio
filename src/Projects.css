@@ -1,0 +1,42 @@
+#projects {
+    padding: 20px;
+  }
+  
+  
+  .projects-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .project {
+    background-color: hsl(0, 0%, 10%);
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 8px hsla(219, 81%, 60%, 0.7),
+                0 0 20px hsla(219, 81%, 65%, 0.5),
+                0 0 35px hsla(219, 81%, 70%, 0.3);
+  }
+
+  .project img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .project a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #007bff;
+  }
+
+  .project-image {
+    width: 100%; 
+    height: auto; 
+    display: block; 
+    border-radius: 8px; 
+  }
+  
+
+
+  
