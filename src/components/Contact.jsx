@@ -16,7 +16,7 @@ function Contact() {
                 <div key={contact.id} className="contact-container">
                 {contact.image && <img src={contact.image} alt={`${contact.title} icon`} style={{maxWidth: '35px'}}/>}
                 {contact.link && <button onClick={() => handleClick(contact.link)} className="contact-button">{contact.title}</button>}
-                {!contact.link && <p>{contact.title}: {contact.text}</p>}
+                {!contact.link && <p>{contact.title} {contact.text}</p>}
                 </div> 
             ))}
         </div>

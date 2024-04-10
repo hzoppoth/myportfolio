@@ -28,7 +28,7 @@ const contacts = [
     },
     {
         id: '4',
-        title: 'Email',
+        title: '',
         link: '',
         image: emailicon,
         text: 'hzoppoth@gmail.com'
