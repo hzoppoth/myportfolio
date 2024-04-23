@@ -18,7 +18,7 @@ const projects = [
         description: 'My portfolio webpage is designed to be a platform for potential employers to discover my capabilities and accomplishments. The site provides visitors with access to my contact details, reports on my projects, and insights into my personal journey and professional skills.',
         features: ['Direct Contact Access: Offering a straightforward way for potential employers and collaborators to reach out to me.','Project Reports: Each project on my portfolio is accompanied by an overview and technologies used in development. This offers a more in-depth look at the projects I have worked on.'],
         impact: 'My portfolio webpage extends beyond what a resume can offer. It serves as a platform for users to gain a comprehensive understanding of my projects and skill set.',
-        github: 'https://github.com/hzoppoth/MyPortfolio',
+        github: 'https://github.com/hzoppoth/myportfolio',
         image: ''
     },
     {
