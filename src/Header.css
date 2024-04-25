@@ -23,4 +23,15 @@ nav a {
     font-weight: bold; 
 }
 
+.active {
+    border-radius: 8px;
+    box-shadow: 0 0 8px hsla(219, 81%, 60%, 0.7),
+                0 0 20px hsla(219, 81%, 65%, 0.5),
+                0 0 35px hsla(219, 81%, 70%, 0.3);
+            
+    color: white;
+    background-color: hsla(219, 81%, 65%, 0.5);
+    font-weight: bold;
+}
+
       
