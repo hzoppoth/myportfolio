@@ -8,6 +8,8 @@ import reacticon from './images/logo192.png'
 import ignitionicon from './images/ignition.png'
 import sqlservericon from './images/mssql.png'
 import awsicon from './images/aws.png'
+import gdicon from './images/pngwing.com.png'
+import postgres from './images/postgres'
 
 const skills = [
     {
@@ -51,9 +53,19 @@ const skills = [
         image: sqlservericon,
     },
     {
-        id: 9,
+        id: 10,
+        title: 'PostgreSQL',
+        image: postgres,
+    },
+    {
+        id: 11,
         title: 'AWS',
         image: awsicon,
+    },
+    {
+        id: 12,
+        title: 'Godot',
+        image: gdicon,
     }
 ];
 
