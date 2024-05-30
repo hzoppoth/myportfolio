@@ -9,7 +9,7 @@ import ignitionicon from './images/ignition.png'
 import sqlservericon from './images/mssql.png'
 import awsicon from './images/aws.png'
 import gdicon from './images/pngwing.com.png'
-import postgres from './images/postgres'
+import postgres from './images/postgres.png'
 
 const skills = [
     {
