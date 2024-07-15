@@ -1,5 +1,5 @@
 import linkedinicon from './images/linkedin.png'
-import githubicon from './images/github.png'
+//import githubicon from './images/github.png'
 import emailicon from './images/emailicon.png'
 import resume from './images/resume530.pdf'
 import resumeicon from './images/resume.png'
