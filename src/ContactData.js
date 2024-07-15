@@ -12,6 +12,7 @@ const contacts = [
         image: linkedinicon,
         text: ''
     },
+    /*
     {
         id: '2',
         title: 'Github',
@@ -19,6 +20,7 @@ const contacts = [
         image: githubicon,
         text: ''
     },
+    */
     {
         id: '3',
         title: 'Resume',

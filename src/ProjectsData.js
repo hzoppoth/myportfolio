@@ -8,7 +8,7 @@ const projects = [
         description: 'Bent Creek Buddy is an Android app developed as my Capstone project, designed to enhance the mountain biking experience in the Bent Creek trail system. This app serves as a dynamic platform where users can both submit and view real-time trail condition reports, fostering a well-informed biking community.',
         features: ['Real-Time Trail Conditions: Users can view reports on trail status, including conditions, closures, and weather advisories, directly from the biking community.','Community Engagement: Provides a platform for users to contribute by submitting trail reports, promoting a collaborative environment.','Optimized User Experience: Designed with smooth navigation and an intuitive interface that allows users to acces information quickly.'],
         impact: ' Bent Creek Buddy bridges the gap between technology and outdoor adventure, offering a vital tool for mountain bikers in the Bent Creek area. By providing instant access to trail conditions and fostering community collaboration, it enhances the safety and enjoyment of biking enthusiasts.',
-        github: 'https://github.com/hzoppoth/BentCreekBuddy',
+        github: '',
         image: ''
     },
     {
@@ -28,7 +28,7 @@ const projects = [
         description: 'My portfolio webpage is designed to be a platform for potential employers to discover my capabilities and accomplishments. The site provides visitors with access to my contact details, reports on my projects, and insights into my personal journey and professional skills.',
         features: ['Direct Contact Access: Offering a straightforward way for potential employers and collaborators to reach out to me.','Project Reports: Each project on my portfolio is accompanied by an overview and technologies used in development. This offers a more in-depth look at the projects I have worked on.'],
         impact: 'My portfolio webpage extends beyond what a resume can offer. It serves as a platform for users to gain a comprehensive understanding of my projects and skill set.',
-        github: 'https://github.com/hzoppoth/myportfolio',
+        github: '',
         image: ''
     },
     {
